@@ -50,5 +50,3 @@ Sample Input
 
 Sample Output
 Yes
-
-Explanation
