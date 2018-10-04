@@ -1,8 +1,9 @@
 # Prework-CodeChallenges
 
-Program.cs contains four Code Challenges:
+Program.cs contains solutions for four Code Challenges:
 
 Problem 1: Array Max Result
+
 Problem Statement
 Given an array select a number that exists, and output the computated "score". The method you create should take in both an array of integers and the integer the user selected.
 
@@ -14,9 +15,14 @@ Sample Input
 Sample Output
 16
 
+Located in Method ArrayMax()
+
+
 Problem 2: Leap Year Calculator
 Problem Statement
 Given a year, report if it is a leap year.
+
+Solution located in Method LeapYear()
 
 Problem 3: Sum of Rows
 Problem Statement
@@ -28,12 +34,15 @@ a multidimensional array with the dimensions of m x n (m = rows, n = columns).
 duplicate integers are possible.
 Negative numbers are possible
 both m and n can vary in length
+
 Sample Input
 int[,] myArray = new int[3, 5] { { 1, 2, 3, 4, 5 }, { 6, 7, 8, 9, 10 }, { 11, 12, 13, 14, 15 } };
 ^^ The actual input would just be myArray, but the above code shows the pre-initialization before the method is called.
 
 Sample Output
 {10,40,65} <-- an integer array
+
+Solution located in Method SumRows(myArray)
 
 Problem 4: Perfect Sequence
 Problem Statement
@@ -50,3 +59,8 @@ Sample Input
 
 Sample Output
 Yes
+
+Solution located in Method PerfectSequence(input)
+
+
+Accompanying images show console output.
