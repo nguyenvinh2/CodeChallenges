@@ -6,15 +6,15 @@ namespace Prework_CodeChallenges
   {
     static void Main(string[] args)
     {
-      //ArrayMax();
+      ArrayMax();
 
-      //LeapYear();
+      LeapYear();
 
       int[,] myArray = new int[3, 5] { { 1, 2, 3, 4, 5 }, { 6, 7, 8, 9, 10 }, { 11, 12, 13, 14, 15 } };
       SumRows(myArray);
 
-      //int[] input = new int[] { 1, 2, 3 };
-      //PerfectSequence(input);
+      int[] input = new int[] { 1, 2, 3 };
+      PerfectSequence(input);
     }
 
     public static void ArrayMax()
