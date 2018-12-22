@@ -1,4 +1,4 @@
-# Prework-CodeChallenges
+# Code Challenges
 
 Program.cs contains solutions for four Code Challenges:
 
@@ -17,12 +17,15 @@ Sample Output
 
 Located in Method ArrayMax()
 
+![Console](ArrayMax.PNG)
 
 Problem 2: Leap Year Calculator
 Problem Statement
 Given a year, report if it is a leap year.
 
 Solution located in Method LeapYear()
+
+![Console](LeapYear.PNG)
 
 Problem 3: Sum of Rows
 Problem Statement
@@ -44,6 +47,8 @@ Sample Output
 
 Solution located in Method SumRows(myArray)
 
+![Console](SumRows.PNG)
+
 Problem 4: Perfect Sequence
 Problem Statement
 Given a sequence. Return "Yes" if the sequence is considered a perfect sequence. Otherwise, return "No"
@@ -62,5 +67,6 @@ Yes
 
 Solution located in Method PerfectSequence(input)
 
+![Console](Perfect%20Sequence.PNG)
 
 Accompanying images show console output.
